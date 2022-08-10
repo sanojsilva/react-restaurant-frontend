@@ -1,0 +1,14 @@
+.login-container {
+  width: 40%;
+}
+
+.login-container h2 {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.login-container button {
+  margin-top: 10px;
+  width: 100%;
+}
